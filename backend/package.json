@@ -1,0 +1,17 @@
+{
+  "name": "brewapps-backend",
+  "version": "1.0.0",
+  "description": "backend-assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayush",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.6.3"
+  }
+}
