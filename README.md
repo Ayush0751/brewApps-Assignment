@@ -1,6 +1,7 @@
 # brewApps-Assignment
 
 ## API endpoints and their usage
+### Deployed Link: https://brewapps-library.onrender.com/api/library
 ### Postman collection link: https://www.postman.com/altimetry-architect-37906949/workspace/brewapps/collection/20147542-0aa27d74-9dc9-4c22-8698-7eb11edb11a7?action=share&creator=20147542
 1. Get request - For getting all the books in the library
 	url: https://brewapps-library.onrender.com/api/library
@@ -47,3 +48,5 @@ To run the application locally
 - Made fetching of books in the home route, and added route for the other operations.
 - Assumed that while creating and updating a book, its title and author should not contain an empty value and the summary should be of at least 5 characters. If any users violate these rules, an error will be thrown stating that the inputs are invalid.
 - If any user tries to get, delete, or update a book by the id that is non-existent, an error will be thrown stating that no book is found with this ID.
+
+## Deployed Link: https://brewapps-library.onrender.com/api/library
