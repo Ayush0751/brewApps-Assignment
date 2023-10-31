@@ -6,7 +6,7 @@
 	url: https://brewapps-library.onrender.com/api/library
 	
 2. Get request(by id) - For getting all the books in the library by an id
-	url: http://localhost:3000/api/library/id
+	url: https://brewapps-library.onrender.com/api/library/id
 
 	example: https://brewapps-library.onrender.com/api/library/653feb8efda601286f319d81
 	
